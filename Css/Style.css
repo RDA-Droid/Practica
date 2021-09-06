@@ -1,0 +1,24 @@
+.Banner{
+width: 1080px;
+height: 300px;
+border: 3xp solid red;
+margin: auto;
+background-image: url(/IMG/Banner1.png);
+background-size: 100% 100%;
+}
+
+body{
+background-color: rgb(158, 238, 211);
+}
+
+h1,h2{
+color: rgb(243, 3, 3);
+}
+
+p{
+color: blue;
+}
+
+u{
+    color: black;
+}
